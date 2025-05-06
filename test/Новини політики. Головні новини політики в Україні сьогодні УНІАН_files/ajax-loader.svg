@@ -1,0 +1,10 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle r="50" transform="matrix(-1 0 0 1 250 50)" fill="#FCBA04"/>
+<circle opacity="0.3" r="50" transform="matrix(-1 0 0 1 250 450)" fill="#FCBA04"/>
+<circle opacity="0.75" r="50" transform="matrix(-0.707107 0.707107 0.707107 0.707107 108.579 108.579)" fill="#FCBA04"/>
+<circle opacity="0.15" r="50" transform="matrix(-0.707107 0.707107 0.707107 0.707107 391.421 391.422)" fill="#FCBA04"/>
+<circle opacity="0.66" r="50" transform="matrix(2.18557e-08 1 1 -2.18557e-08 50 250)" fill="#FCBA04"/>
+<circle opacity="0.1" r="50" transform="matrix(2.18557e-08 1 1 -2.18557e-08 450 250.001)" fill="#FCBA04"/>
+<circle opacity="0.5" r="50" transform="matrix(0.707107 0.707107 0.707107 -0.707107 108.578 391.422)" fill="#FCBA04"/>
+<circle opacity="0.05" r="50" transform="matrix(0.707107 0.707107 0.707107 -0.707107 391.422 108.579)" fill="#FCBA04"/>
+</svg>
